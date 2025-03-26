@@ -21,3 +21,4 @@ I'm João Gabriel, a Software Engineering passionate about creating scalable sol
 ## Contact
 - [joaogabrielvianna](https://www.linkedin.com/in/jo%C3%A3o-gabriel-vianna-9439ba288/) on LinkedIn
 - [joaogabrielvianna05@gmail.com](joaogabrielvianna05@gmail.com) on email
+ 
