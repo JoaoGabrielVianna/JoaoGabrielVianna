@@ -1,18 +1,3 @@
-<style>
-  .neon-divider {
-    height: 2px;
-    background: linear-gradient(90deg, #00ffff, #ff00ff, #00ffff);
-    background-size: 200% 100%;
-    animation: neon 3s linear infinite;
-    border: none;
-    margin: 32px 0;
-  }
-
-  @keyframes neon {
-    0% { background-position: 0% 50%; }
-    100% { background-position: 200% 50%; }
-  }
-</style>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" />
@@ -23,7 +8,7 @@
   Engenheiro de Software • Backend com Go e Python • Infraestrutura e Arquitetura
 </p>
 
-<hr class="neon-divider"/>
+---
 
 ### 👨‍💻 Sobre mim  
 
@@ -34,7 +19,7 @@ Sou engenheiro de software focado em **back-end moderno**, apaixonado por desenv
 - ⚙️ Foco em performance, legibilidade de código e boas práticas de engenharia  
 - 🤝 Mentoria e suporte a devs iniciantes fazem parte da minha missão  
 
-<hr class="neon-divider"/>
+---
 
 ### 🧰 Tech Stack
 
@@ -71,7 +56,7 @@ Sou engenheiro de software focado em **back-end moderno**, apaixonado por desenv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </p>
 
-<hr class="neon-divider"/>
+---
 
 ### 📊 GitHub Stats
 
@@ -79,7 +64,7 @@ Sou engenheiro de software focado em **back-end moderno**, apaixonado por desenv
   <img src="https://github-readme-stats.vercel.app/api?username=joaogabrielvianna&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<hr class="neon-divider"/>
+---
 
 ### 📬 Vamos conversar?
 
@@ -87,7 +72,7 @@ Sou engenheiro de software focado em **back-end moderno**, apaixonado por desenv
 - 💼 **LinkedIn:** [linkedin.com/in/joaogabrielvianna](https://www.linkedin.com/in/joaogabrielvianna/)  
 - 🌐 **Portfólio:** [joaogabrielvianna.com.br](https://joaogabrielvianna.com.br)
 
-<hr class="neon-divider"/>
+---
 
 <p align="center">
   <strong>🧩 Construindo soluções com propósito, performance e paixão pelo código.</strong>
