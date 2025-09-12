@@ -86,14 +86,6 @@ Para mim, tecnologia só faz sentido quando entrega **valor real** e gera impact
 
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaogabrielvianna&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📬 Vamos conversar?
 
 - 📩 **Email:** [joaogabrielvianna05@gmail.com](mailto:joaogabrielvianna05@gmail.com)  
