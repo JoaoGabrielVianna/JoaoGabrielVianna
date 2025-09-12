@@ -29,8 +29,8 @@ Para mim, tecnologia só faz sentido quando entrega **valor real** e gera impact
 #### 🔧 Backend & APIs
 | Tecnologia                                                                                                                   | Nível de Proficiência      | Uso Principal                            |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------------------------------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="Go" />     | ⭐⭐⭐⭐☆ (Pleno/Especialista) | Microsserviços, APIs de alta performance |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />  | ⭐⭐⭐⭐☆                      | Automação, Data Pipelines, APIs          |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="Go" />     | ⭐⭐⭐⭐☆                | Microsserviços, APIs de alta performance |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />  | ⭐⭐⭐⭐☆                     | Automação, Data Pipelines, APIs          |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> | ⭐⭐⭐☆                       | APIs rápidas, protótipos                 |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" />        | ⭐⭐☆☆☆                      | Projetos acadêmicos e manutenção         |
 | <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="40" alt="FastAPI" />                                  | ⭐⭐☆☆☆                      | APIs rápidas em Python                   |
