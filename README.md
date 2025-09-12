@@ -58,7 +58,7 @@ Para mim, tecnologia só faz sentido quando entrega **valor real** e gera impact
 | <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" height="40" alt="C#" />        | ⭐☆☆☆☆              | Projetos acadêmicos              |
 | <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" height="40" alt="Arduino" />             | ⭐☆☆☆☆              | Prototipagem e eletrônica básica |
 | <img src="https://icon.icepanel.io/Technology/png-shadow-512/Unity.png" height="40" alt="Unity" />      | ⭐☆☆☆☆              | Criação de Digital Twins e simulações 3D |
-
+ 
 
 
 #### 🛠️ Infraestrutura & DevOps
