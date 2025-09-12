@@ -22,11 +22,6 @@ Para mim, tecnologia só faz sentido quando entrega **valor real** e gera impact
 
 ---
 
-### 📅 Contribuições Recentes
-
-<p align="center">
-  <img src="./metrics.svg" alt="Calendário de Contribuições" />
-</p>
 
 
 ### 🧰 Tech Stack
