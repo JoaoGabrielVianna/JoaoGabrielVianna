@@ -92,3 +92,6 @@ Para mim, tecnologia só faz sentido quando entrega **valor real** e gera impact
 <p align="center">
   <strong>🧩 Construindo soluções com propósito, performance e paixão pelo código.</strong>
 </p>
+
+
+jg
