@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="10" viewBox="0 0 1200 10" preserveAspectRatio="none">
+  <defs>
+    <!-- gradiente arco-íris que se move -->
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0"   stop-color="#ff00e1"/>
+      <stop offset="0.5" stop-color="#00e1ff"/>
+      <stop offset="1"   stop-color="#7aff00"/>
+      <!-- move o gradiente lentamente da esquerda p/ direita -->
+      <animateTransform attributeName="gradientTransform"
+                        type="translate"
+                        from="-1200 0" to="1200 0"
+                        dur="14s"
+                        repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- brilho (neon glow) -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- a barra em si -->
+  <rect x="0" y="0" width="1200" height="10" rx="5" fill="url(#grad)" filter="url(#glow)"/>
+</svg>

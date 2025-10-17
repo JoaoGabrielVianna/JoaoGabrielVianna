@@ -1,97 +1,134 @@
-                                                             
-<p align="center">  
-  <img src="./assets/banner.png" />
-</p>  
- 
+<p align="center">
+  <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" />
+</p>
+
+<p align="center">
+  <img src="./assets/background.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" />
+</p>
+
+
 <h1 align="center">João Gabriel Vianna</h1>
 <p align="center">
-  Engenheiro de Software • Go and Python Developer • DevOps and Arquitechture
+  <b>Software Engineer • Golang & Python Developer • Cloud & DevOps Enthusiast</b>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim  
+### 👨‍💻 About Me
 
-Sou desenvolvedor **Go** e **Python**, com uma cultura **Build to Learn**: acredito que a melhor forma de evoluir é construindo.  
-Tenho experiência aplicando **Clean Code**, **Hexagonal Architecture** e **Clear Architecture**, sempre com foco em soluções simples, claras e de fácil manutenção.  
+I’m a backend-focused software engineer passionate about building reliable, scalable, and clean systems.  
+I follow a **“build to learn”** mindset — I evolve by creating, experimenting, and refining real-world solutions.  
 
-Gosto de criar **APIs bem estruturadas, microsserviços organizados e pipelines que funcionam de verdade**.  
-No dia a dia, atuo também com **DevOps**, CI/CD e cloud, garantindo que o software seja não só bem feito, mas também confiável e preparado para crescer.  
+Currently working with **Go**, **Python**, and **DevOps pipelines**, delivering performance-driven APIs and cloud infrastructures.  
+Technology, for me, is about turning ideas into value that truly impacts people.
 
-Para mim, tecnologia só faz sentido quando entrega **valor real** e gera impacto positivo para quem usa.
+
+
+### ⚙️ Highlights
+- 🧩 Clean Architecture & Hexagonal Design  
+- ☁️ CI/CD with Docker & GitHub Actions  
+- 🚀 Scalable APIs in Go and FastAPI  
+- 🌎 Open Source Maintainer – **PlanBCore**  
+- 💡 Passion for learning, building, and sharing knowledge  
+
+
+### 💻 Tech Stack
 
 ---
-
-
-
-### 🧰 Tech Stack
 
 #### 🔧 Backend & APIs
-| Tecnologia                                                                                                                   | Nível de Proficiência      | Uso Principal                            |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------------------------------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="Go" />     | ⭐⭐⭐⭐☆                | Microsserviços, APIs de alta performance |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />  | ⭐⭐⭐⭐☆                     | Automação, Data Pipelines, APIs          |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> | ⭐⭐⭐☆                       | APIs rápidas, protótipos                 |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" />        | ⭐⭐☆☆☆                      | Projetos acadêmicos e manutenção         |
-| <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="40" alt="FastAPI" />                                  | ⭐⭐☆☆☆                      | APIs rápidas em Python                   |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="45" title="Go – Microsserviços, APIs de alta performance" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python – Automação, Data Pipelines, APIs" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" title="Node.js – APIs rápidas, protótipos" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java – Projetos acadêmicos e manutenção" style="margin: 10px; ;" />
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="45" title="FastAPI – APIs rápidas em Python" style="margin: 10px; ;" />
+</p>
 
+---
 
 #### 💻 Frontend & Mobile
-| Tecnologia                                                                                                                              | Nível de Proficiência | Uso Principal                    |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />                | ⭐⭐⭐⭐☆                 | Frontend Web                     |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> | ⭐⭐⭐⭐☆                 | React + React Native             |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React Native" />         | ⭐⭐⭐⭐☆                 | Aplicações mobile cross-platform |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />          | ⭐⭐⭐☆                  | Apps mobile multiplataforma      |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React – Frontend Web" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" title="TypeScript – React + React Native" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React Native – Aplicações mobile cross-platform" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" title="Flutter – Apps mobile multiplataforma" style="margin: 10px; ;" />
+</p>
 
+---
 
-### 🖥️ Outras Linguagens & Plataformas (secundárias/estudo)
+#### 🖥️ Outras Linguagens & Plataformas
+<p>
+  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" height="45" title="C++ – Projetos acadêmicos" style="margin: 10px; ;" />
+  <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" height="45" title="C# – Projetos acadêmicos" style="margin: 10px; ;" />
+  <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" height="45" title="Arduino – Prototipagem e eletrônica básica" style="margin: 10px; ;" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Unity.png" height="45" title="Unity – Digital Twins e simulações 3D" style="margin: 10px; ;" />
+</p>
 
-| Tecnologia                                                                                              | Nível de Proficiência | Uso Principal                    |
-| ------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------------- |
-| <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" height="40" alt="C++" /> | ⭐☆☆☆☆              | Projetos acadêmicos              |
-| <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" height="40" alt="C#" />        | ⭐☆☆☆☆              | Projetos acadêmicos              |
-| <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" height="40" alt="Arduino" />             | ⭐☆☆☆☆              | Prototipagem e eletrônica básica |
-| <img src="https://icon.icepanel.io/Technology/png-shadow-512/Unity.png" height="40" alt="Unity" />      | ⭐☆☆☆☆              | Criação de Digital Twins e simulações 3D |
- 
-
+---
 
 #### 🛠️ Infraestrutura & DevOps
-| Tecnologia                                                                                                                                              | Nível de Proficiência | Uso Principal                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />                             | ⭐⭐⭐⭐☆                 | Containerização e deploy     |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />                                | ⭐⭐⭐☆                  | Proxy reverso, balanceamento |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />                                      | ⭐⭐⭐⭐☆                 | Versionamento, Git Flow      |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" />                                | ⭐⭐⭐⭐☆                 | Administração de servidores  |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />                             | ⭐⭐⭐☆                  | Deploy frontend              |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" /> | ⭐⭐⭐☆                  | Cloud, serviços gerenciados  |
-| <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" height="40" alt="Google Cloud" />                                                   | ⭐⭐☆☆☆                 | Serviços em nuvem            |
-| <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" height="40" alt="Oracle Cloud" />                                                         | ⭐⭐☆☆☆                 | Cloud e banco de dados       |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Docker – Containerização e deploy" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" title="Nginx – Proxy reverso, balanceamento" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git – Versionamento, Git Flow" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" title="Linux – Administração de servidores" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" title="Vercel – Deploy frontend" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" title="AWS – Cloud, serviços gerenciados" style="margin: 10px; ;" />
+  <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" height="45" title="Google Cloud – Serviços em nuvem" style="margin: 10px; ;" />
+  <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" height="45" title="Oracle Cloud – Cloud e banco de dados" style="margin: 10px; ;" />
+</p>
 
+---
 
 #### ☁️ Cloud & Banco de Dados
-| Tecnologia                                                                                                                              | Nível de Proficiência | Uso Principal                       |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ----------------------------------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> | ⭐⭐⭐⭐☆                 | Queries avançadas, análise de dados |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />                | ⭐⭐⭐☆                  | Bancos relacionais                  |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase" />       | ⭐⭐⭐⭐☆                 | Realtime DB, autenticação           |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL – Queries avançadas, análise de dados" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL – Bancos relacionais" style="margin: 10px; ;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="45" title="Firebase – Realtime DB, autenticação" style="margin: 10px; ;" />
+</p>
 
 
 ---
 
 
 
-### 📬 Vamos conversar?
+### 💼 Current Projects
+<p align="center"><img src="./assets/neon-bar.svg" width="100%" />
 
-- 📩 **Email:** [joaogabrielvianna05@gmail.com](mailto:joaogabrielvianna05@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/joaogabrielvianna](https://www.linkedin.com/in/joaogabrielvianna/)  
-- 🌐 **Portfólio:** [joaogabrielvianna.com.br](https://joaogabrielvianna.com.br)
+- 🟩 **PlanBCore** — Open Source Project Lead • *May 2025 – Present*  
+- 🟧 **Moneto** — Financial Organizer (Personal Project) • *Jul 2025 – Present*  
+- 🟪 **Asva** — Medical Platform • *Sep 2025 – Present*
+
+<p align="center"><img src="./assets/neon-bar.svg" width="100%" />
+
+
+### 🌍 Goals
+Currently improving my expertise in **Golang**, **cloud architecture**, and **open source collaboration**,  
+aiming to reach my **first international remote role** while growing **PlanBCore** as a global open source project.
+
+---
+
+### 📬 Connect With Me
+<p align="center">
+  <a href="mailto:joaogabrielvianna05@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joaogabrielvianna/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://joaogabrielvianna.com.br"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/PlanBCore"><img src="https://img.shields.io/badge/-PlanBCore-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
 <p align="center">
-  <strong>🧩 Construindo soluções com propósito, performance e paixão pelo código.</strong>
+  <strong>🧩 Building software with purpose, performance, and passion for clean code.</strong>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielVianna&show_icons=true&theme=tokyonight" />
+</p>
 
-jg
+---
