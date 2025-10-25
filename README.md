@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" />
+  <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" /> 
 </p>
 
 <p align="center">
