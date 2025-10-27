@@ -1,115 +1,66 @@
-<p align="center">  
-  <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" /> 
+<p align="center">
+  <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" />
 </p>
- 
 <p align="center">
   <img src="./assets/background.png" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" />
-</p>
-
-
 <h1 align="center">João Gabriel Vianna</h1>
+
 <p align="center">
-  <b>Software Engineer • Golang & Python Developer • Cloud & DevOps Enthusiast</b>
+  <b>Software Engineer • Backend in Go • Cloud & DevOps</b>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m a backend-focused software engineer passionate about building reliable, scalable, and clean systems.  
-I follow a **“build to learn”** mindset — I evolve by creating, experimenting, and refining real-world solutions.  
+I’m a backend software engineer passionate about **building scalable, maintainable, and high-performance systems**.
 
-Currently working with **Go**, **Python**, and **DevOps pipelines**, delivering performance-driven APIs and cloud infrastructures.  
-Technology, for me, is about turning ideas into value that truly impacts people.
+Currently working with **Golang**, **Python**, and **DevOps**, focusing on **clean architectures**, containerization, and cloud automation.  
+My approach follows a _“build to learn”_ mindset — learning through real-world products, from MVPs to distributed systems.
 
+🧠 **Recent work:**  
+- Migrated CRM integration pipelines from Python to Go, increasing performance by **+200%**.  
+- Built CI/CD pipelines reducing deployment time by **40%**.  
+- Delivered end-to-end API automation for multi-client environments using **Docker + Nginx + GCP**.
 
+---
 
 ### ⚙️ Highlights
-- 🧩 Clean Architecture & Hexagonal Design  
-- ☁️ CI/CD with Docker & GitHub Actions  
-- 🚀 Scalable APIs in Go and FastAPI  
-- 🌎 Open Source Maintainer – **PlanBCore**  
-- 💡 Passion for learning, building, and sharing knowledge  
-
-
-### 💻 Tech Stack
+- 🧩 Clean & Hexagonal Architecture (Go)  
+- ☁️ CI/CD pipelines with Docker, GitHub Actions & Nginx  
+- 📦 Event-driven & REST APIs (Go, FastAPI)  
+- 🚀 Scalable deployments on AWS/GCP  
+- 🧠 Continuous learner with focus on performance & clarity  
 
 ---
 
-#### 🔧 Backend & APIs
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="45" title="Go – Microsserviços, APIs de alta performance" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python – Automação, Data Pipelines, APIs" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" title="Node.js – APIs rápidas, protótipos" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java – Projetos acadêmicos e manutenção" style="margin: 10px; ;" />
-  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" height="45" title="FastAPI – APIs rápidas em Python" style="margin: 10px; ;" />
+### 💻 Core Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="45" title="Golang" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" title="GCP" />
 </p>
 
----
-
-#### 💻 Frontend & Mobile
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React – Frontend Web" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" title="TypeScript – React + React Native" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React Native – Aplicações mobile cross-platform" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" title="Flutter – Apps mobile multiplataforma" style="margin: 10px; ;" />
-</p>
+<p align="center">Other: Linux • GitHub Actions • React • TypeScript • Nginx • CI/CD</p>
 
 ---
 
-#### 🖥️ Outras Linguagens & Plataformas
-<p>
-  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" height="45" title="C++ – Projetos acadêmicos" style="margin: 10px; ;" />
-  <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" height="45" title="C# – Projetos acadêmicos" style="margin: 10px; ;" />
-  <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" height="45" title="Arduino – Prototipagem e eletrônica básica" style="margin: 10px; ;" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Unity.png" height="45" title="Unity – Digital Twins e simulações 3D" style="margin: 10px; ;" />
-</p>
+### 💼 Featured Projects
+
+- 🟩 **[PlanBCore](https://github.com/PlanBCore)** — Open Source Core for smart integrations (Go + Docker + Nginx)  
+- 🟧 **[Moneto](https://github.com/JoaoGabrielVianna/moneto)** — Personal financial dashboard for tracking expenses and goals  
+- 🟪 **[Asva](https://github.com/JoaoGabrielVianna/asva)** — Medical communication platform (Go backend + React Native app)
 
 ---
-
-#### 🛠️ Infraestrutura & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Docker – Containerização e deploy" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" title="Nginx – Proxy reverso, balanceamento" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git – Versionamento, Git Flow" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" title="Linux – Administração de servidores" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" title="Vercel – Deploy frontend" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" title="AWS – Cloud, serviços gerenciados" style="margin: 10px; ;" />
-  <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" height="45" title="Google Cloud – Serviços em nuvem" style="margin: 10px; ;" />
-  <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" height="45" title="Oracle Cloud – Cloud e banco de dados" style="margin: 10px; ;" />
-</p>
-
----
-
-#### ☁️ Cloud & Banco de Dados
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL – Queries avançadas, análise de dados" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL – Bancos relacionais" style="margin: 10px; ;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="45" title="Firebase – Realtime DB, autenticação" style="margin: 10px; ;" />
-</p>
-
-
----
-
-
-
-### 💼 Current Projects
-<p align="center"><img src="./assets/neon-bar.svg" width="100%" />
-
-- 🟩 **PlanBCore** — Open Source Project Lead • *May 2025 – Present*  
-- 🟧 **Moneto** — Financial Organizer (Personal Project) • *Jul 2025 – Present*  
-- 🟪 **Asva** — Medical Platform • *Sep 2025 – Present*
-
-<p align="center"><img src="./assets/neon-bar.svg" width="100%" />
-
 
 ### 🌍 Goals
-Currently improving my expertise in **Golang**, **cloud architecture**, and **open source collaboration**,  
-aiming to reach my **first international remote role** while growing **PlanBCore** as a global open source project.
+Focused on mastering **distributed Go systems** and **cloud-native architecture**,  
+while contributing to open-source and preparing for **international production environments**.
 
 ---
 
@@ -124,11 +75,10 @@ aiming to reach my **first international remote role** while growing **PlanBCore
 ---
 
 <p align="center">
-  <strong>🧩 Building software with purpose, performance, and passion for clean code.</strong>
+  <strong>🧩 Building software with purpose, performance, and clean code.</strong>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielVianna&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoGabrielVianna&theme=tokyonight" />
 </p>
-
----
