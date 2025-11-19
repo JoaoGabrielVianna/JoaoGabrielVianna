@@ -8,7 +8,7 @@
         
        
  
-<h1 align="center">João Gabriel Vianna</h1>
+<h1 align="center">João Gabriel Vianna</h1> 
 
 <p align="center">
   <b>Software Engineer • Backend in Go • Cloud & DevOps</b>
