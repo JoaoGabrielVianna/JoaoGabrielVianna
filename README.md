@@ -1,18 +1,19 @@
-  <p align="center">
-  <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" /> 
-</p>  
-               
+<p align="center">
+  <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" />
+</p>
+
 <p align="center">  
   <img src="./assets/background.png" width="100%" /> 
-</p>  
-        
+</p>
+
 <h1 align="center">João Gabriel Vianna</h1> 
 
 <p align="center"> 
   <b>Software Engineer • Backend in Go • Cloud & DevOps</b>
-</p> 
----   
- 
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 I’m a backend software engineer passionate about **building scalable, maintainable, and high-performance systems**.
