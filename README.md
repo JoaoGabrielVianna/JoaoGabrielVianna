@@ -7,7 +7,7 @@
  
 <h1 align="center">João Gabriel Vianna</h1> 
 
-<p align="center">
+<p align="center"> 
   <b>Engenheiro Backend • Golang • Java • Python • Microsserviços • Sistemas Distribuídos</b>
 </p>
 
