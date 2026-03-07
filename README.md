@@ -3,7 +3,7 @@
 </p>        
 <!-- <p align="center">     
   <img src="./assets/background.png" width="100%" />      
-</p> -->  
+</p> -->   
     
 <h1 align="center">João Gabriel Vianna</h1>  
 
