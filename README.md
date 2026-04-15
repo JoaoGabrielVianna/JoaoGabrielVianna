@@ -18,7 +18,7 @@ I work across backend and frontend using **Go, Python, and React**, focusing on 
 
 I operate end-to-end — from architecture design to production deployment and optimization.
 
----
+--- 
 
 ### 🧠 What I do
 
