@@ -2,7 +2,7 @@
   <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" /> 
 </p>   
   
-<h1 align="center">João Gabriel Vianna</h1>
+<h1 align="center">João Gabriel Vianna</h1> 
 
 <p align="center">  
   <b>Full-Stack Software Engineer • Go • Python • React • Distributed Systems • AI-driven SaaS</b>
