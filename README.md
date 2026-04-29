@@ -1,6 +1,6 @@
  <p align="center">  
   <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" /> 
-</p>      
+</p>       
     
 <h1 align="center">João Gabriel Vianna</h1> 
  
