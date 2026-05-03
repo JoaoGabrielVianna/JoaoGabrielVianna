@@ -3,7 +3,7 @@
 </p>       
      
 <h1 align="center">João Gabriel Vianna</h1> 
- 
+  
 <p align="center">  
   <b>Full-Stack Software Engineer • Go • Python • React • Distributed Systems • AI-driven SaaS</b>
 </p> 
