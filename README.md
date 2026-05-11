@@ -1,33 +1,33 @@
-   <p align="center">  
-  <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" /> 
-</p>         
-        
-<h1 align="center">João Gabriel Vianna</h1> 
-    
-<p align="center">   
-  <b>Full-Stack Software Engineer • Go • Python • React • Distributed Systems • AI-driven SaaS</b>
-</p> 
- 
---- 
+<p align="center">
+  <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" />
+</p>
+
+<h1 align="center">João Corsi</h1>
+
+<p align="center">
+  <b>Backend-Focused Software Engineer • Go • Python • Java • React • Scalable Systems • SaaS Applications</b>
+</p>
+
+---
 
 ### 👋 About me
 
-Full-stack software engineer with 4+ years of experience building scalable, high-performance SaaS products.
+Backend-focused software engineer building scalable SaaS systems and real-world products using **Go, Python, Java, and React**.
 
-I work across backend and frontend using **Go, Python, and React**, focusing on **clean architecture, system design, and real-world product delivery**. My background is strongly rooted in **distributed systems, APIs, and microservices**, with growing focus on **AI-driven features and modern development workflows**.
+My experience includes designing APIs, developing microservices, integrating external platforms, and building systems focused on performance, reliability, and maintainability. I enjoy working across the product lifecycle — from architecture and backend development to deployment and optimization.
 
-I operate end-to-end — from architecture design to production deployment and optimization.
+Currently focused on backend engineering, distributed workflows, and AI-integrated systems.
 
 --- 
 
 ### 🧠 What I do
 
-- Build **backend services in Go and Python**
-- Develop **scalable APIs and distributed systems**
-- Design **full-stack SaaS applications**
-- Solve problems related to **performance, scalability, and reliability**
-- Contribute to **product and technical decision-making**
-- Integrate **AI-driven features into real-world systems**
+- Build backend services using **Go**, **Python** and **Java**
+- Design scalable APIs and modular system architectures
+- Develop full-stack SaaS applications
+- Work with async processing, integrations, and real-time workflows
+- Contribute to technical decisions and product development
+- Build AI-integrated features for production systems
 
 ---
 
@@ -36,52 +36,61 @@ I operate end-to-end — from architecture design to production deployment and o
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="45" title="Golang" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Docker" />
 </p>
 
 <p align="center">
-  Microservices • REST APIs • gRPC • Distributed Systems • Cloud • Linux • System Design
+  Go • FastAPI • Spring Boot • React • PostgreSQL • Docker • REST APIs • Microservices • Async Workflows
 </p>
 
 ---
+
+### 🛠 Engineering interests
+
+- Backend architecture
+- Scalable SaaS systems
+- Concurrent programming in Go
+- API design and integrations
+- Async processing and background jobs
+- Distributed workflows
+- System reliability and performance
+- AI-integrated applications
+
+---
+
 ### 🚀 Featured Projects
 
 #### 🧩 Lightweight SaaS Backend
 
-A production-ready backend foundation for building scalable SaaS applications.
+Production-oriented backend project focused on scalable SaaS application architecture.
 
-Designed and implemented using **Go, PostgreSQL, and clean architecture principles**, this project includes:
+Currently being developed in multiple backend ecosystems, including **Go** and **Java**, exploring different architectural approaches, performance characteristics, and development patterns.
 
-- JWT-based authentication and protected routes
-- Modular architecture (handler → service → repository)
-- Database integration with GORM and PostgreSQL
-- Swagger API documentation
-- Unit testing for core authentication flows
-- Docker-based local environment
+Main areas of focus:
 
-> Built to reflect real-world SaaS backend patterns, focusing on scalability, maintainability, and clean system design.
+- JWT authentication and authorization
+- Layered architecture (handler → service → repository)
+- PostgreSQL integration
+- REST API design and documentation
+- Async workflows and background processing
+- Dockerized development environment
+- Testing and maintainability
+- Scalability-oriented backend patterns
 
----
-
-#### 💰 Moneto
-
-A backend-focused financial platform designed to explore **system design, domain modeling, and scalable architecture**.
-
-Currently being built using **clean architecture and domain-driven design principles**, with focus on:
-
-- Financial data processing and organization
-- Scalable backend structure (entities, use cases, repositories)
-- Modular and extensible system design
-- Future integration with AI and document processing (OCR, LLMs)
-
-> Moneto is a long-term project focused on mastering backend architecture, system design, and real-world financial application patterns.
----
+> Focused on backend engineering best practices, clean architecture, and production-ready application design.
 
 ### 🌍 Current focus
 
-Focused on **Go, Python, React, distributed systems, and AI-driven SaaS**, building systems ready for **high-scale and international environments**.
+Currently focused on improving expertise in:
+
+- Go backend development
+- Distributed and async workflows
+- System design and scalability
+- AI-integrated backend services
+- Production-ready SaaS architecture
 
 ---
 
@@ -94,5 +103,5 @@ Focused on **Go, Python, React, distributed systems, and AI-driven SaaS**, build
 </p>
 
 <p align="center">
-  <strong>Building scalable systems with clarity, performance, and ownership.</strong>
+  <strong>Building reliable systems with clarity, ownership, and scalability.</strong>
 </p>
