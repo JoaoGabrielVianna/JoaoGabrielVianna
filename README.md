@@ -3,7 +3,7 @@
 </p>  
    
 <h1 align="center">João Corsi</h1> 
-
+ 
 <p align="center">
   <b>Backend-Focused Software Engineer • Go • Python • Java • React • Scalable Systems • SaaS Applications</b>
 </p>
