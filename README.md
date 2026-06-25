@@ -2,7 +2,7 @@
   <img src="./assets/neon-bar.svg" width="100%" alt="neon divider" />
 </p>
  
-<h1 align="center">João Corsi</h1>
+<h1 align="center">João Corsi</h1> 
  
 <p align="center">
   <b>Software Engineer · Go · Python · TypeScript · Distributed Systems · AI Automation</b>
