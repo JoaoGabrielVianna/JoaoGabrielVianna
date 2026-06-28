@@ -3,7 +3,7 @@
 </p>
  
 <h1 align="center">João Corsi</h1> 
- 
+  
 <p align="center">
   <b>Software Engineer · Go · Python · TypeScript · Distributed Systems · AI Automation</b>
 </p> 
